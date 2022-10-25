@@ -6,12 +6,17 @@ contributor:
     alias: Hoxie, Bertha D.
     gutenberg_agent_id: '52754'
     url: http://www.gutenberg.org/2009/agents/52754
+covers:
+- cover_type: archival
+  image_path: 69097-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartlett, Frances
     gutenberg_agent_id: '55101'
     url: http://www.gutenberg.org/2009/agents/55101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69097#Christmas-in-Austria-or-Fritzl-s-friends
 gutenberg_issued: '2022-10-06'
 identifiers:
   gutenberg: '69097'
